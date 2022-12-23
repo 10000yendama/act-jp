@@ -1,0 +1,13 @@
+{
+    "include": [
+        "default",
+        "common"
+    ],
+    "define": {
+        "keymap": {
+            "\\": "set-input-mode-hiragana",
+            "Muhenkan": "set-input-mode-latin",
+            "|": "start-preedit"
+        }
+    }
+}

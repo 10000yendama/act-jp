@@ -1,0 +1,8 @@
+{
+    "define": {
+        "keymap": {
+            "*": "upper-:",
+            "C-j": "commit-unhandled"
+        }
+    }
+}

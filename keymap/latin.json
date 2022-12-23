@@ -1,0 +1,11 @@
+{
+    "include": [
+        "default",
+        "common"
+    ],
+    "define": {
+        "keymap": {
+            "Henkan": "set-input-mode-hiragana"
+        }
+    }
+}

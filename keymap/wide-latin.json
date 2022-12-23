@@ -1,0 +1,9 @@
+{
+    "include": [
+        "default",
+        "common"
+    ],
+    "keymap": {
+        "Muhenkan": "set-input-mode-latin"
+    }
+}
